@@ -5,6 +5,6 @@ public class Runner {
         // Day2 obj = new Day2();
         // System.out.println(obj.aimProductOfFinalHorizontalAndDepth());
         Day3 obj = new Day3();
-        System.out.println(obj.powerConsumption());
+        System.out.println(obj.lifeSupportRating());
     }
 }
